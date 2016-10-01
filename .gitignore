@@ -1,0 +1,23 @@
+#compiled source#
+#################
+*.com
+*.exe
+*.class
+*.dll
+*.o
+*.so
+*.sh
+#Packages#
+*.7z
+*.zip
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+#Logs and databases#
+*.log
+*.sql
+*.sqlite
+#folders#
+node_modules
