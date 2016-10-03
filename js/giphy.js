@@ -1,3 +1,4 @@
+/*Clase Giphy*/
 class Giphy{
 	constructor(keyword){
 		this.keyword= keyword;
