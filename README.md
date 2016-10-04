@@ -1,2 +1,2 @@
 # Api-Giphy
-Buscador de gifs
+Buscador de gifs funcional en servidor local
